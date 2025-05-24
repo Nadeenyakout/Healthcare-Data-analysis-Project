@@ -1,1 +1,5 @@
 # Healthcare-Data-analysis-Project
+Healthcare Dataset Description and Entity Relationships
+This dataset captures comprehensive healthcare-related information for a hospital or medical center. It is designed to track detailed data about patients, their visits, associated diagnoses, medical procedures, healthcare providers, hospital departments, insurance details, and the cities where patients reside. The interconnected tables provide a structured way to follow each patient's journey and medical interactions across multiple visits, diagnoses, and procedures.
+Dataset Overview
+The dataset is organized into several key tables, each representing a distinct entity within the hospital ecosystem. The primary focus is on patients and their visits, where various health-related interactions and administrative processes take place. Other supporting entities such as diagnoses, procedures, providers, departments, insurance, and cities are linked to build a detailed and holistic picture of healthcare delivery.
